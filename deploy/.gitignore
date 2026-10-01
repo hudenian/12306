@@ -1,0 +1,3 @@
+# 由 gen-init.ps1 从 resources/ 生成的副本,不入库
+mysql-init/1*.sql
+mysql-init/2*.sql

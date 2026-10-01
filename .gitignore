@@ -31,3 +31,6 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### 本地运行日志(deploy/start-services.ps1 产生) ###
+logs/
